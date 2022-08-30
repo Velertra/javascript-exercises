@@ -11,12 +11,15 @@ const subtract = function(a, b) {
 };
 
 const sum = function(array) { 
+  
   let sumers = 0;
 
   for (let i = 0; i < array.length; i += 1)
     sumers += array[i];
 
     return sumers
+
+    if(x = x.title)
 };
 
 
